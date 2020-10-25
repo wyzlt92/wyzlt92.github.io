@@ -1,0 +1,5 @@
+导入数据库 修改数据库文件位置：config/inc_config.php
+
+后台地址 /admin/
+
+用户名和密码admin admin888
